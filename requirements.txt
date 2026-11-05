@@ -10,5 +10,4 @@ langchain-openrouter
 langchain-experimental
 langchain-text-splitters
 langchain-huggingface   
--e .
 gunicorn
