@@ -9,5 +9,6 @@ langchain-community
 langchain-openrouter
 langchain-experimental
 langchain-text-splitters
-langchain-huggingface
+langchain-huggingface   
 -e .
+gunicorn
