@@ -4,7 +4,7 @@ flask
 pypdf
 python-dotenv
 pinecone[grpc]
-langchain-pinecone
+langchain-pinecone==0.2.13
 langchain-community
 langchain-openrouter
 langchain-experimental
